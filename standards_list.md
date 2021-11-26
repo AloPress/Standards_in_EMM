@@ -2,6 +2,7 @@
 
 | Standard             | Category | Maintainer                                                                   |
 |----------------------|----------|------------------------------------------------------------------------------|
+| ArchiMate            | ITSM     | Open and independent enterprise architecture modeling language               |
 | ISO/IEC   27001      | ITSM     | International Organisation for Standardisation (ISO)                         |
 | COBIT                | ITSM     | Information Systems Audit and Control Association (ISACA)                    |
 | ITIL®                | ITSM     | Axelos                                                                       |
